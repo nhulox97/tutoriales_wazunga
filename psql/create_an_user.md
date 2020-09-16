@@ -73,4 +73,4 @@ Y con eso hemos finalizado el proceso de creación de nuestro usuario para Postg
 ![nhulox97](../resources/nhulox97.png)
 
 - 🐈 GitHub: [nhulox97](https://github.com/nhulox97).
-- 📷 Instagram: [mhulox97_dev](https://www.instagram.com/nhulox97_dev/).
+- 📷 Instagram: [nhulox97_dev](https://www.instagram.com/nhulox97_dev/).
