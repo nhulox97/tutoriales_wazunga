@@ -12,7 +12,6 @@ Hay muchos administradores de plugins, personalmente prefiero usar vundle. A con
 
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-
 ```
 con el anterior comando lo que estamos haciendo es clonar el plugin vundle en la ruta donde se debe hcaer para que este funcione correctamente.
 
@@ -20,7 +19,7 @@ con el anterior comando lo que estamos haciendo es clonar el plugin vundle en la
 Despues de haber clonado vundle es necesario que creemos nuestro archivo `.vimrc`, en dicho archivo es donde estarán expresadas todas nuestras configuraciones, a continuación los pasos necesarios:
 
 ```
-curl -fLo test.vimrc "https://raw.githubusercontent.com/nhulox97/tutoriales_wazunga/master/vim/configure_vim/my_config3.vimrc"
+curl -fLo .vimrc "https://raw.githubusercontent.com/nhulox97/tutoriales_wazunga/master/vim/configure_vim/my_config3.vimrc"
 ```
 luego ejecutamos el siguiente comando
 
